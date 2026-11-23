@@ -1,15 +1,18 @@
-<div align="center">
+<div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/YOUR_GITHUB_USERNAME" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/YOUR_GITHUB_USERNAME" alt="Workspace" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/YOUR_GITHUB_USERNAME" alt="Workspace"  width="40%"/><br> 
 
-<h3>Hi 👋, I'm Rwda Emad</h3>
-<p><strong>Full Stack Web Developer (.NET & Angular)</strong> from Beni Suef, Egypt</p>
+<details>
+<p><strong> <summary>  Busy coding & Sipping coffee :   </summary> </strong></p>
+
+**Full Stack Web Developer (.NET & Angular)** · Rwda Emad
+
+</details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) <br>
-
 </div>
 
 <hr></hr>
@@ -36,19 +39,40 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ```csharp
-// stack_overview organized
+// tools_I_use organized
 
-public class AboutMe
-{
-    public string Name => "Rwda Emad";
-    public string Role => "Full Stack Web Developer (.NET & Angular)";
-    public string Education => "B.Sc. in Computer Science & AI (Beni Suef University) | AI Pre-Master's | ITI Full Stack .NET";
-
-    public readonly Dictionary<string, string[]> MyTools = new()
-    {
-        ["Backend"] = new[] { "C#", "ASP.NET Core", "EF Core", "LINQ", "Dapper", "PHP", "Laravel" },
-        ["Frontend"] = new[] { "Angular", "TypeScript", "JavaScript (ES6)", "HTML5", "CSS3", "Bootstrap", "jQuery" },
-        ["Databases & Cloud"] = new[] { "SQL Server", "Firebase", "Docker" },
-        ["IDEs & Tools"] = new[] { "Visual Studio", "VS Code", "SSMS", "Git", "GitHub", "Git Bash", "Windows Forms", "MSTest" }
-    };
+class About : Me { 
+  public readonly Dictionary<string, string[]> myTools = new()
+  {
+    ["Backend"] = new[] { "C#", "ASP.NET Core", "EF Core", "LINQ", "Dapper", "PHP", "Laravel" },
+    ["Frontend"] = new[] { "Angular", "TypeScript", "JavaScript", "HTML5", "CSS3", "Bootstrap", "jQuery" },
+    ["Database"] = new[] { "SQL Server", "Firebase" },
+    ["Editors"] = new[] { "Visual Studio", "VS Code", "SSMS", "Windows Forms" },
+    ["Platforms"] = new[] { "Windows", "Docker" },
+    ["OtherTools"] = new[] { "Git", "GitHub", "Git Bash", "MSTest", "WordPress" }
+  };
 }
+
+
+
+
+
+
+
+
+
+
+
+I’m building web apps with .NET & Angular.
+
+
+CS & AI graduate · AI Pre-Master's · ITI graduate.
+
+
+Ask me about .NET, Angular, SQL Server, or WordPress.
+
+
+Find me on LinkedIn: Rwda Emad
+
+
+Fun fact: Most bugs vanish right after making a fresh cup of coffee.
